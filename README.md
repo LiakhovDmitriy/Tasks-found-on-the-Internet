@@ -3,7 +3,14 @@ For my own development
 
 <li><strong>Task 1</li></strong> 
 <ul> 
-    <a> From codingbat.com </a>
-    <a href="/Task%201">My answer.</a>
-   
+    <a href="https://codingbat.com/java"> From codingbat.com </a><br>
+    <a href="Package/Task 1/Answer">Task</a><br>
+    <a href="Package/Task 1/Answer">Answer</a>
 </ul>
+<li><strong>Task 2</li></strong> 
+<ul> 
+    <a href="https://codingbat.com/java"> From codingbat.com </a><br>
+    <a href="Package/Task 1/Answer">Task</a><br>
+    <a href="Package/Task 1/Answer">Answer</a>
+</ul>
+

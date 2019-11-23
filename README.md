@@ -22,4 +22,12 @@ For my own development
     <a href="Package/Task 3/Task">Task</a><br>
     <a href="Package/Task 3/Answer">Answer</a>
 </ul>
+<li><strong>Task 4</li></strong> 
+<ul> 
+    <a href="https://codingbat.com/java"> From codingbat.com </a><br>
+    <a>Given an "out" string length 4, such as "<<>>", and a word, return a new string where the word is in the middle of the out string, e.g. "<<word>>". Note: use str.substring(i, j) to extract the String starting at index i and going up to but not including index j.</a><br>
+    <a href="Package/Task 4/Task">Task</a><br>
+    <a href="Package/Task 4/Answer">Answer</a><br>
+    <a><strong>Remark</strong><a href="https://codingbat.com/java"> codingbat.com </a> Prevents use "StringBuilder"</a><br>
+</ul>
 

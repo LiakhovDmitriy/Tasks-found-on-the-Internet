@@ -4,12 +4,14 @@ For my own development
 <li><strong>Task 1</li></strong> 
 <ul> 
     <a href="https://codingbat.com/java"> From codingbat.com </a><br>
+    <a>Given a string name, e.g. "Bob", return a greeting of the form "Hello Bob!".</a><br>
     <a href="Package/Task 1/Task">Task</a><br>
     <a href="Package/Task 1/Answer">Answer</a>
 </ul>
 <li><strong>Task 2</li></strong> 
 <ul> 
     <a href="https://codingbat.com/java"> From codingbat.com </a><br>
+    <a>Given two strings, a and b, return the result of putting them together in the order abba, e.g. "Hi" and "Bye" returns "HiByeByeHi".</a><br>
     <a href="Package/Task 2/Task">Task</a><br>
     <a href="Package/Task 2/Answer">Answer</a>
 </ul>
